@@ -1,7 +1,7 @@
 package org.example;
 
 public class Main {
-    public stati void main(String[] args) {
+    public stat void main(String[] args) {
         System.out.println("Hello world!");
     }
 }
